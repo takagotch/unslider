@@ -20,7 +20,7 @@ $('#slider').unslider({
 });
 ```
 
-```
+```json
 {
   activeClass: 'active',
   arrows: true,
